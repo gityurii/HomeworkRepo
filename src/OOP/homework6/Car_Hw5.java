@@ -1,4 +1,4 @@
-package OOP;
+package OOP.homework6;
 
 import java.util.Objects;
 

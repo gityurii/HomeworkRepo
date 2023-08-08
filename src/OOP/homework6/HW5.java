@@ -1,4 +1,6 @@
-package OOP;
+package OOP.homework6;
+
+import OOP.homework6.Car_Hw5;
 
 public class HW5 {
     public static void main(String[] args) {
